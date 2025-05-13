@@ -18,3 +18,10 @@ Applications: Supports research in enzyme kinetics, plant and algal biotechnolog
 Hope You enjoyed, please share my name & email in citations if you use or modify, Joseph Erickson josepherickson135@gmail.com
 
 google colab: https://colab.research.google.com/github/400lbhacker/moleculardocking/blob/main/Joseph_Erickson_molecular_docking_2025.ipynb
+
+Snippet mentions a PAL mutant Y110F that showed a very significant loss of activity, indicating that Tyrosine at position 110 is crucial for catalysis or substrate binding in PAL.
+Snippet  refers to Tyr110 as an analogous residue in parsley PAL (PcPAL, which corresponds to 1W27) and mentions its location near the substrate entrance channel to the MIO group, which is the catalytic center of PAL.   
+Snippet  explicitly lists Tyr110 (UniProt numbering) as a catalytic residue in PDB entry 1w27, noting its role in making ammonia a better leaving group. It also mentions Asp351 (corresponding to your 349 in PDB numbering, so likely related to your 348 or 349) as deprotonating the substrate. While your list doesn't have 349/351, it's in the vicinity.   
+Snippet  also mentions other essential residues determined by mutagenesis, such as His83, Arg283, Met382, Tyr53, Tyr280, Asn195, and Glu414 (using the numbering from a related enzyme, PpHAL). While these numbers don't directly match yours, they highlight that the active site involves multiple key residues.   
+Snippet  mentions Lys486 as being located on the active site helices and contributing to MIO cofactor stabilization. This is close to your residue 488.   
+
