@@ -16,3 +16,5 @@ Visualization: Generates interactive 3D visualizations of protein-ligand complex
 Applications: Supports research in enzyme kinetics, plant and algal biotechnology, drug synthesis, and environmental applications like waste deamination.
 
 Hope You enjoyed, please share my name & email in citations if you use or modify, Joseph Erickson josepherickson135@gmail.com
+
+google colab: https://colab.research.google.com/github/400lbhacker/moleculardocking/blob/main/Joseph_Erickson_molecular_docking_2025.ipynb
