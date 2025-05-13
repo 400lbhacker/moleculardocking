@@ -1,4 +1,4 @@
-# moleculardocking
+# molecular docking 2025
 Title: Computational Docking Analysis of Petroselinum crispum Phenylalanine Ammonia-Lyase for Myristicin Biotransformation  
 Abstract: Phenylalanine ammonia-lyase (PAL) from Anabaena flos-aquae has been identified as a novel biocatalyst for myristicin biotransformation, producing compounds with potential pharmacological applications. This study extends these findings by employing computational molecular docking to investigate the substrate specificity and binding interactions of PAL from parsley (Petroselinum crispum, PDB ID: 1W27), demonstrating the efficacy of plant-derived enzymes. Using AutoDock Vina, the parsley PAL was docked with ligands including phenylalanine, cinnamic acid, myristicin, and elemicin, following structural preparation with PDBFixer, pdb2pqr, and Open Babel. Docking was performed at pH 8.0, targeting the enzyme’s active site (residues 110, 134, 136, 488), with binding affinities calculated to assess catalytic potential. Interactive 3D visualizations generated with py3Dmol revealed favorable binding poses within a hydrophobic pocket, consistent with the enzyme’s mechanism for nucleophilic attack and ammonia uptake. Results indicate myristicin’s high binding affinity, supporting its biotransformation potential. This open-source pipeline, implemented in Google Colab, provides a scalable framework for enzyme-ligand interaction studies, with applications in drug synthesis, biofuel production, and environmental deamination. The code and visualizations are freely available on GitHub, fostering collaborative advancements in plant and algal biotechnology.
 
@@ -15,4 +15,4 @@ Visualization: Generates interactive 3D visualizations of protein-ligand complex
 
 Applications: Supports research in enzyme kinetics, plant and algal biotechnology, drug synthesis, and environmental applications like waste deamination.
 
-Any edits based on my code, or any usage of my code please share my name:Joseph Erickson & email: josepherickson135@gmail.com in credits
+Hope You enjoyed, please share my name & email in citations if you use or modify, Joseph Erickson josepherickson135@gmail.com
