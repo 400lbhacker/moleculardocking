@@ -25,3 +25,11 @@ Snippet  explicitly lists Tyr110 (UniProt numbering) as a catalytic residue in P
 Snippet  also mentions other essential residues determined by mutagenesis, such as His83, Arg283, Met382, Tyr53, Tyr280, Asn195, and Glu414 (using the numbering from a related enzyme, PpHAL). While these numbers don't directly match yours, they highlight that the active site involves multiple key residues.   
 Snippet  mentions Lys486 as being located on the active site helices and contributing to MIO cofactor stabilization. This is close to your residue 488.   
 
+Cofactor: MIO is a crucial cofactor involved in the catalytic reaction of phenylalanine ammonia-lyase (PAL).
+Electrophilic Nature: It's a highly electrophilic moiety that sits in the active site of PAL.  This electrophilicity is enhanced by its location atop the positive pole of three polar helices in the active site.    
+Formation: MIO is formed autocatalytically within the enzyme from a conserved Ala-Ser-Gly tripeptide segment through cyclization and dehydration.    
+Mechanism: In the catalytic mechanism, the aromatic ring of L-phenylalanine attacks the MIO, activating the C-H bond for deprotonation.  The MIO then facilitates the elimination of ammonia.    
+Active Site Component: The active site of PAL contains the MIO group, which is non-covalently bonded to three helices.  Specific residues like Leu266, Asn270, Val269, Leu215, Lys486, and Ile472 are located on these active site helices and Phe413, Glu496, and Gln500 contribute to its stabilization.    
+Comparison to other enzymes: MIO is also found in other ammonia lyases like histidine ammonia-lyase (HAL) and aminomutases.   
+In essence, the MIO group is the essential chemical component within the active site of PAL that directly participates in the deamination reaction of phenylalanine (and potentially other substrates like myristicin).
+
